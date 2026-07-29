@@ -12,3 +12,4 @@ is_true = 'likes apples'
 is_light_on = True 
 current_ennemies = ['Nouman , Sébastien']
 print(year)
+len(first_name)
